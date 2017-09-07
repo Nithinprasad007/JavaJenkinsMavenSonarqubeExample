@@ -9,7 +9,7 @@ public class App {
   private static final Logger LOGGER = Logger.getLogger(App.class.getName());
 
   public static void main(String[] args) {
-    LOGGER.info("Logger Name: "+LOGGER.getName());
+    LOGGER.info("Logger Name: "+LOGGER.getName()+" Yep");
   }
 
 }
